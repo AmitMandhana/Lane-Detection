@@ -14,6 +14,9 @@ A real-time lane detection and departure warning system implemented using comput
 
 *Sample output showing lane detection and departure warning*
 
+### 📺 Video Demo
+Watch the complete demonstration on YouTube: [Lane Detection Demo](https://youtu.be/ZWo-vWFWAnk?si=6z19DTxxuaZ34wbu)
+
 ## ✨ Features
 
 - 🛣️ Real-time lane detection using Canny edge detection
@@ -50,6 +53,12 @@ A real-time lane detection and departure warning system implemented using comput
    - The processed video will be saved in the `output` directory
 
 ## 🧠 How It Works
+
+### Algorithm Flowchart
+
+![Lane Detection Flowchart](image.png)
+
+*Complete algorithm flowchart showing the lane detection pipeline*
 
 ### Pipeline Overview
 
