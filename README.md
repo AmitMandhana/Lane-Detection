@@ -60,13 +60,6 @@ Watch the complete demonstration on YouTube: [Lane Detection Demo](https://youtu
    - Press `q` to quit the application
    - The processed video will be saved in the `output` directory
 
-## 🧠 How It Works
-
-### Algorithm Flowchart
-
-![Lane Detection Flowchart](image.png)
-
-*Complete algorithm flowchart showing the lane detection pipeline*
 
 ### Pipeline Overview
 
