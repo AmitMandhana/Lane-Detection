@@ -1,5 +1,13 @@
 # 🚗 Lane Detection and Departure Warning System
 
+## 🧠 How It Works
+
+### Algorithm Flowchart
+
+![Lane Detection Flowchart](image.png)
+
+*Complete algorithm flowchart showing the lane detection pipeline*
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.6%2B-blue" alt="Python Version">
   <img src="https://img.shields.io/badge/OpenCV-4.8.0-green" alt="OpenCV Version">
